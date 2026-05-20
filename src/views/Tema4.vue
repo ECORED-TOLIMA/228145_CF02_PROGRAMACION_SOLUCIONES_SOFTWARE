@@ -10,7 +10,7 @@
     figure
       img(src='@/assets/curso/tema4/1.png', alt='', style="width: 1220px").m-auto
 
-    p.mt-4 El modelado en el desarrollo de <em>software</em> es el proceso mediante el cual se representa un sistema de forma abstracta, utilizando diagramas y estructuras que permiten comprender su funcionamiento antes de su implementación. A través del modelado, es posible visualizar componentes, relaciones, flujos de información y comportamientos, facilitando la comunicación entre los actores del proyecto.
+    p.mt-4 El modelado en el desarrollo de <em>software</em> es el proceso mediante el cual se <b>representa un sistema de forma abstracta</b>, utilizando diagramas y estructuras que permiten comprender su funcionamiento antes de su implementación. A través del modelado, es posible visualizar componentes, relaciones, flujos de información y comportamientos, facilitando la comunicación entre los actores del proyecto.
 
     .row.bg-04
       .col-12
@@ -413,7 +413,7 @@
                 ul.lista-ul--color
                   li
                     i.lista-ul__vineta
-                    p.mb-0 Alineación con stakeholders no técnicos.
+                    p.mb-0 Alineación con <em>stakeholders</em> no técnicos.
 
                   li
                     i.lista-ul__vineta

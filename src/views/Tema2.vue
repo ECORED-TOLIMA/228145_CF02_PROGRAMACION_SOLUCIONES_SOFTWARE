@@ -73,7 +73,7 @@
               img(src='@/assets/curso/tema2/5.svg', style='width: 100px').m-auto
           
           .col
-            p Uno de los retos más importantes del análisis es la identificación de conflictos entre requisitos. Estos pueden surgir cuando diferentes stakeholders tienen expectativas distintas o cuando existen limitaciones técnicas. Detectar estos conflictos de manera temprana permite evitar problemas en etapas posteriores.
+            p Uno de los retos más importantes del análisis es la identificación de conflictos entre requisitos. Estos pueden surgir cuando diferentes <em>stakeholders</em> tienen expectativas distintas o cuando existen limitaciones técnicas. Detectar estos conflictos de manera temprana permite evitar problemas en etapas posteriores.
 
 
     .titulo-tres.mt-5: h3 Gestión de requisitos a lo largo del proyecto
@@ -245,7 +245,7 @@
       h2 2.2. Gestión del ciclo de vida de los requisitos
 
 
-    p La gestión del ciclo de vida de los requisitos comprende el conjunto de actividades orientadas a controlar, mantener y actualizar los requisitos desde su definición inicial hasta su implementación y validación final. Este proceso permite asegurar que los requisitos se mantengan alineados con los objetivos del proyecto, incluso cuando cambian las condiciones del entorno o las necesidades del negocio.
+    p La gestión del ciclo de vida de los requisitos comprende el conjunto de actividades orientadas a <b>controlar, mantener y actualizar los requisitos</b> desde su definición inicial hasta su implementación y validación final. Este proceso permite asegurar que los requisitos se mantengan alineados con los objetivos del proyecto, incluso cuando cambian las condiciones del entorno o las necesidades del negocio.
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.p-3.p-sm-4.p-md-5.mt-4
       .bloque-texto-g__img(
@@ -313,7 +313,7 @@
               img(src='@/assets/curso/tema2/19.svg', alt='Texto que describa la imagen')
           
         h4.text-center Identificador de versión
-        p.text-center Define el propósito del documento, el alcance del sistema a desarrollar y las principales definiciones, acrónimos y referencias necesarias para una correcta comprensión de los requisitos.
+        p.text-center Código o número asignado a cada versión del requisito, que permite diferenciar claramente los cambios realizados a lo largo del tiempo y facilita su seguimiento y referencia.
       .col-md.tarjeta.bg-4.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -321,7 +321,7 @@
               img(src='@/assets/curso/tema2/20.svg', alt='Texto que describa la imagen')
           
         h4.text-center Fecha de modificación
-        p.text-center Presenta el contexto del sistema, su relación con el entorno operativo y una caracterización general de los usuarios y actores que interactúan con él.
+        p.text-center Registro de la fecha en la que se efectuó el cambio, lo cual permite establecer una secuencia temporal de las modificaciones y apoyar la trazabilidad del requisito.
       .col-md.tarjeta.bg-15.p-5
         .row.justify-content-center.mb-4
           .col-6
@@ -329,7 +329,7 @@
               img(src='@/assets/curso/tema2/21.svg', alt='Texto que describa la imagen')
           
         h4.text-center Autor del cambio
-        p.text-center Detalla las funcionalidades que el sistema debe proporcionar, así como las restricciones que condicionan su comportamiento y su implementación.
+        p.text-center Persona o rol responsable de realizar o aprobar la modificación, lo que permite asignar responsabilidades y aclarar el origen de cada ajuste.
 
       .col-md.tarjeta.bg-4.p-5(style="border-top-right-radius: 0px !important; border-bottom-right-radius: 0px !important;")
         .row.justify-content-center.mb-4
@@ -338,7 +338,7 @@
               img(src='@/assets/curso/tema2/22.svg', alt='Texto que describa la imagen')
           
         h4.text-center Descripción del cambio
-        p.text-center Describe las interacciones
+        p.text-center Detalle breve y preciso de las modificaciones realizadas, explicando qué se ajustó y el motivo del cambio, con el fin de mantener claridad y control sobre la evolución del requisito.
 
 
 

@@ -344,7 +344,7 @@
 
     .row.justify-content-center.mt-4
       .col-lg-10
-        p La técnica basada en riesgo tiene una relación directa con el proceso de pruebas, ya que los requisitos con mayor riesgo deben ser probados con mayor intensidad y profundidad, así:
+        p La técnica basada en riesgo tiene una relación directa con el proceso de pruebas, ya que los requisitos con mayor riesgo deben ser <b>probados con mayor intensidad y profundidad</b>, así:
 
 
     .row.bg-04

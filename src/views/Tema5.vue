@@ -180,7 +180,7 @@
 
     separador
     #t_5_1.titulo-segundo.color-acento-contenido
-      h2 5.1. Diagramas de casos de uso, historias de usuario y storyboard
+      h2 5.1. Diagramas de casos de uso, historias de usuario y <em>storyboard</em>
 
     .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5.mt-4
       .bloque-texto-g__img(
@@ -336,7 +336,7 @@
           img(src='@/assets/curso/tema5/21.svg', style='width:100px').m-auto
       
       .col
-        p El storyboard es una técnica visual que permite representar la experiencia del usuario a través de secuencias gráficas, mostrando cómo interactúa con el sistema paso a paso. Esta herramienta se utiliza principalmente en el diseño de interfaces y en la validación de flujos de interacción.
+        p El storyboard es una técnica visual que permite representar la <b>experiencia del usuario a través de secuencias gráficas</b>, mostrando cómo interactúa con el sistema paso a paso. Esta herramienta se utiliza principalmente en el diseño de interfaces y en la validación de flujos de interacción.
 
 
     .row.justify-content-center.mt-4
@@ -398,7 +398,7 @@
         figure
           img(src='@/assets/curso/tema5/25.png', alt='', style="width: 390px").m-auto
       .col-lg-8
-        p Las herramientas de modelado permiten #[b construir, mantener y comunicar modelos del sistema] (UML, BPMN, C4, ER, wireframes) de forma estandarizada y colaborativa. Más allá de “dibujar diagramas”, estas plataformas integran funciones de #[b versionamiento, validación, colaboración y exportación], facilitando que los modelos evolucionen junto con el proyecto.
+        p Las herramientas de modelado permiten #[b construir, mantener y comunicar modelos del sistema] (UML, BPMN, C4, ER, <em>wireframes</em>) de forma estandarizada y colaborativa. Más allá de “dibujar diagramas”, estas plataformas integran funciones de #[b versionamiento, validación, colaboración y exportación], facilitando que los modelos evolucionen junto con el proyecto.
 
         .row.justify-content-center.mt-4
           .col-lg-12

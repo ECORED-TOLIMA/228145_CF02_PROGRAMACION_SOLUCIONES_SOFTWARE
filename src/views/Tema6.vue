@@ -297,7 +297,7 @@
 
     .row.justify-content-center.mt-4
       .col-lg-10
-        .titulo-tres.mt-5: h3 ¿Control del proceso de desarrollo
+        .titulo-tres.mt-5: h3 Control del proceso de desarrollo
 
         p.mt-4 El control del proceso de desarrollo es el conjunto de prácticas, mecanismos y métricas que permiten #[b monitorear, evaluar y ajustar el avance del proyecto de <em>software</em>], asegurando que se cumplan los objetivos definidos en términos de alcance, tiempo, costo y calidad.
 
@@ -649,7 +649,7 @@
                   .col-lg
                     p Al igual que las anteriores herramientas, esta también posee unas acciones destacadas:
 
-        ul.lista-ul--color
+        ul.lista-ul--color.mt-4
           li.d-flex.align-items-start
             span.icono-img
             p.mb-0 Identifica de forma clara las diferencias entre versiones.
