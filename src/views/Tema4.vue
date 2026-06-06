@@ -120,7 +120,7 @@
         h4.text-center Físico
         p Representa la implementación concreta del sistema, detallando la arquitectura técnica, las plataformas, los recursos de hardware y <em>software</em>, así como la forma en que los componentes lógicos se despliegan en el entorno real.
 
-    p.mt-4 El modelado se clasifica según #[b qué aspecto del sistema se quiere representar]. En la práctica, los modelos se combinan para cubrir visión, estructura, comportamiento, datos e interacción. Cada tipo responde a preguntas distintas del proyecto y utiliza artefactos específicos. Dentro d ellos tipos se modelado se encuentran:
+    p.mt-4 El modelado se clasifica según #[b qué aspecto del sistema se quiere representar]. En la práctica, los modelos se combinan para cubrir visión, estructura, comportamiento, datos e interacción. Cada tipo responde a preguntas distintas del proyecto y utiliza artefactos específicos. Dentro de los tipos de modelado se encuentran:
 
     .row.justify-content-center
       .col-lg-12
@@ -396,7 +396,7 @@
 
     p.mt-4 A diferencia de UML, el modelo C4 no define símbolos estrictos, sino que se basa en una representación clara y simple que prioriza la comprensión del sistema. Los principios del modelo C4 son la abstracción progresiva, la audiencia dirigida, la consistencia entre niveles y el lenguaje simple.
 
-    p A continuación, se detalle lo que representa cada nivel de modelo C4 y sus respectivas aplicaciones:
+    p A continuación, se detalla lo que representa cada nivel de modelo C4 y sus respectivas aplicaciones:
 
 
     .row.justify-content-center
@@ -504,7 +504,7 @@
 
                   li
                     i.lista-ul__vineta
-                    p.mb-0 Bases de datos / colas / caches.
+                    p.mb-0 Bases de datos / colas / cachés.
 
 
                   li
@@ -520,17 +520,17 @@
                 ul.lista-ul--color
                   li
                     i.lista-ul__vineta
-                    p.mb-0 Incluir tecnología clave por contenedor (p. ej., API – Node.js) 
+                    p.mb-0 Incluir tecnología clave por contenedor (p. ej., API – Node.js).
 
 
                   li
                     i.lista-ul__vineta
-                    p.mb-0 Diferenciar almacenamiento (DB vs cache vs cola) 
+                    p.mb-0 Diferenciar almacenamiento (DB vs. caché vs. cola).
 
 
                   li
                     i.lista-ul__vineta
-                    p.mb-0 Especificar direcciones de flujo (sincrónico/asíncrono)
+                    p.mb-0 Especificar direcciones de flujo (sincrónico/asíncrono).
               .col-lg-6
                 figure
                   img(src='@/assets/curso/tema4/31.png', alt='', style="width: 100%").m-auto
@@ -701,7 +701,7 @@
 
     .row.mt-4
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-primario.p-5(style="height: 170px !important;")
+        .tarjeta-numerada.color-primario.p-5.h-100(style="min-height: 170px !important;")
           .tarjeta-numerada__numero
             .h2 1
           p.text-center 
@@ -709,7 +709,7 @@
           p.text-center Monolito vs. microservicios. 
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-contenido.p-5(style="height: 170px !important;")
+        .tarjeta-numerada.color-acento-contenido.p-5.h-100(style="min-height: 170px !important;")
           .tarjeta-numerada__numero
             .h2 2
           p.text-center 
@@ -717,7 +717,7 @@
           p.text-center APIs REST vs. eventos.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario.p-5(style="height: 170px !important;")
+        .tarjeta-numerada.color-secundario.p-5.h-100(style="min-height: 170px !important;")
           .tarjeta-numerada__numero
             .h2 3
           p.text-center 
@@ -725,7 +725,7 @@
           p.text-center Separación de contenedores. 
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-botones.p-5(style="height: 170px !important;")
+        .tarjeta-numerada.color-acento-botones.p-5.h-100(style="min-height: 170px !important;")
           .tarjeta-numerada__numero
             .h2 4
           p.text-center 

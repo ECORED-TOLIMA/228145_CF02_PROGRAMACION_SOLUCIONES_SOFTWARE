@@ -190,7 +190,7 @@
 
     .row
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-primario.p-5
+        .tarjeta-numerada.color-primario.p-5.h-100
           .tarjeta-numerada__numero
             .h2 1
           p.text-center 
@@ -198,7 +198,7 @@
           p.text-center Organizar los requisitos de manera lógica, agrupándolos según su funcionalidad o relación dentro del sistema.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-contenido.p-5
+        .tarjeta-numerada.color-acento-contenido.p-5.h-100
           .tarjeta-numerada__numero
             .h2 2
           p.text-center 
@@ -206,7 +206,7 @@
           p.text-center Establecer relaciones entre requisitos, determinando cómo uno puede afectar o condicionar a otros.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario.p-5
+        .tarjeta-numerada.color-secundario.p-5.h-100
           .tarjeta-numerada__numero
             .h2 3
           p.text-center 
@@ -214,7 +214,7 @@
           p.text-center Analizar si los requisitos pueden ser implementados considerando restricciones técnicas, económicas o de tiempo.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-botones.p-5
+        .tarjeta-numerada.color-acento-botones.p-5.h-100
           .tarjeta-numerada__numero
             .h2 4
           p.text-center 

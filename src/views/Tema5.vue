@@ -102,7 +102,7 @@
 
     .row.mt-4
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-primario.p-5
+        .tarjeta-numerada.color-primario.p-5.h-100
           .tarjeta-numerada__numero
             .h2 1
           p.text-center 
@@ -110,7 +110,7 @@
           p.text-center Permite gestionar requisitos como elementos de trabajo, integrándolos con tareas y actividades del proyecto.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-contenido.p-5
+        .tarjeta-numerada.color-acento-contenido.p-5.h-100
           .tarjeta-numerada__numero
             .h2 2
           p.text-center 
@@ -118,7 +118,7 @@
           p.text-center Ofrece una organización visual de requisitos mediante tableros y tarjetas.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-secundario.p-5
+        .tarjeta-numerada.color-secundario.p-5.h-100
           .tarjeta-numerada__numero
             .h2 3
           p.text-center 
@@ -126,7 +126,7 @@
           p.text-center Integra la gestión de requisitos con el control del desarrollo y las pruebas.
 
       .col-md-6.col-xl.mb-4.mb-xl-0
-        .tarjeta-numerada.color-acento-botones.p-5
+        .tarjeta-numerada.color-acento-botones.p-5.h-100
           .tarjeta-numerada__numero
             .h2 4
           p.text-center 
@@ -204,7 +204,7 @@
             .cajon.color4.p-4
               p A través de estos diagramas, se pueden identificar los diferentes roles que interactúan con el sistema y las acciones que pueden realizar. Esto facilita la comprensión del alcance del sistema y permite validar los requisitos funcionales.
 
-        p.text-center.mt-4  Los elementos que hacen parte de los casos de usos son:
+        p.text-center.mt-4  Los elementos que hacen parte de los casos de uso son:
 
     SlyderF.mt-4(columnas="col-lg-6 col-xl-4")
       .tarjeta.bg-08.p-4
