@@ -578,6 +578,7 @@
               figure
                 img(src='@/assets/curso/tema6/26.png', alt='', style="width: 390px").m-auto
             .col-lg-8
+              p Permiten preparar una versión del sistema antes del despliegue.
               p Igualmente, tienen las siguientes acciones destacadas:
 
               ul.lista-ul--color
@@ -598,7 +599,7 @@
                   span.icono-img
                   p.mb-0 Permiten integrar cambios de forma controlada.
                   
-              .titulo-tres.mt-5: h3 Gestión de conflictos en control de versiones
+              .titulo-tres.mt-3: h3 Gestión de conflictos en control de versiones
 
               p.mt-2 Los conflictos en control de versiones ocurren cuando dos o más desarrolladores realizan cambios sobre la misma parte del código y el sistema no puede decidir automáticamente cuál versión debe conservarse.
               p La gestión de conflictos es una actividad clave dentro del control de versiones, ya que permite mantener la coherencia del código y evitar errores en la integración. Se destacan los siguientes tipos:
